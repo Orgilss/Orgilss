@@ -39,6 +39,8 @@ Mobicom Corporation LLC
 - SAP ERP user-defined functions development
 - SAP BPC Implementation
 - Asset Management Web development
+<br><br>
+🌱 I’m currently focused on expanding my professional experience in data science beyond academic projects and combining my financial expertise with data-driven insights to support smarter business decisions.
 <br><br><br>
 
 ## Skills
@@ -59,7 +61,4 @@ Mobicom Corporation LLC
 - Time Management
 - Punctuality
 - Detail-oriented
-<br><br>
-
-- 🌱 I’m currently focused on expanding my professional experience in data science beyond academic projects and combining my financial expertise with data-driven insights to support smarter business decisions.
 
